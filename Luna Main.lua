@@ -24,7 +24,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Luna-Hub/master/
 end
 --Speedrun 4--
 if game.GameId == 83858907 then
-loadstring(game:HttpGet("https://pastebin.com/raw/vqTThNRN", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Luna-Hub/master/SpeedRun4.lua", true))()
 end
 --Horrific Housing--
 if game.GameId == 107172930 then
