@@ -18,7 +18,7 @@ end
 if game.GameId == 703124385 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/TowerOfHell.lua", true))()
 end
---A Bizarre Day (WIP)--
+--A Bizarre Day--
 if game.GameId == 969567031 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/ABizarreDay.lua", true))()
 end
