@@ -31,7 +31,7 @@ if game.GameId == 107172930 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Luna-Hub/master/HorifficHousing.lua", true))()
 end
 --No Scope Sniping: Remake (Extremely buggy, work in progress)--
-if game.GameId == 5081773298 then
+if game.GameId == 1760106570 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Luna-Hub/master/NoScopeSnipingRM.lua", true))()
 end
 
