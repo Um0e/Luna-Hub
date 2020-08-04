@@ -34,4 +34,7 @@ end
 if game.GameId == 1760106570 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/NoScopeSnipingRM.lua", true))()
 end
-
+--Treacherous Tower--
+if game.GameId == 1383164929 then 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/TreacherousTower.lua", true))()
+end
