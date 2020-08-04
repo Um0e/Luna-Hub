@@ -1,4 +1,7 @@
+local library = loadstring(game:HttpGet("https://pastebin.com/raw/eKwyeQa0", true))()
+
 local tab1 = library:CreateTab("Supported Games", true)
+
 local button = library:MakeButton(tab1,"Project Jojo",function(button)
     game:GetService("TeleportService"):Teleport(2295122555, LocalPlayer)
 end)
