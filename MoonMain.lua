@@ -38,7 +38,7 @@ end
 if game.GameId == 1383164929 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/TreacherousTower.lua", true))()
 end
---Prison Life--
-if game.GameId == numbers then
-loadstring(game:HttpGet(" ", true))()
+--Prison Life-- (FUCK PRISON LIFE)
+if game.GameId == 73885730 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/PrisonLife.lua", true))()
 end
