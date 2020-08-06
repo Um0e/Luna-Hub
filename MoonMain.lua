@@ -42,3 +42,6 @@ end
 if game.GameId == 73885730 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/PrisonLife.lua", true))()
 end
+if game.GameId == 1686423156 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/SoldierSimulator.lua", true))()
+end
