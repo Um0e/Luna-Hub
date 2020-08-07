@@ -1,4 +1,5 @@
 --Project Jojo--
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/as.lua", true))()
 if game.GameId == 798672140 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/ProjectJojo.lua", true))()
 end
