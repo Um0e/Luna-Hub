@@ -1,4 +1,3 @@
-local cringe = LUA_PROTECT
-if cringe then
+if XPROTECT then
     while true do end
 end
