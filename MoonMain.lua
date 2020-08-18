@@ -70,3 +70,9 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/as.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/jsonrequest.lua", true))()
 end
+--Area02--
+if game.GameId == 1016500589 then
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/Area02.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/as.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/jsonrequest.lua", true))()
+end
