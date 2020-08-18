@@ -58,12 +58,13 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/as.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/jsonrequest.lua", true))()
 end
---Prison Life-- (FUCK PRISON LIFE)
+--Prison Life-- 
 if game.GameId == 73885730 then
-loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/PrisonLife.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/PrisonLoof.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/as.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/jsonrequest.lua", true))()
 end
+--Soldier Sim--
 if game.GameId == 1686423156 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/SoldierSimulator.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/as.lua", true))()
