@@ -69,7 +69,7 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/jsonrequest.lua", true))()
 end
 --Unit: Classified--
-if game.PlaceId == 4292776423 then
+if game.GameId == 1392301017 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/Unit.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/jsonrequest.lua", true))()
 end
