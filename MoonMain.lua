@@ -73,3 +73,8 @@ if game.GameId == 1392301017 then
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/Unit.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/jsonrequest.lua", true))()
 end
+-- Mayday -- 
+if game.GameId == 1419144155 then 
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/Mayday.lua", true))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/jsonrequest.lua", true))()
+end  
