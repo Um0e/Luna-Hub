@@ -77,4 +77,8 @@ end
 if game.GameId == 1419144155 then 
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/Mayday.lua", true))()
 loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/jsreq.lua", true))()
-end  
+end
+if game.GameId == 113491250 then
+  loadstring(game:HttpGet("https://raw.githubusercontent.com/Um0e/Moon-Hub/master/PhantomForces.lua", true))()
+end
+
